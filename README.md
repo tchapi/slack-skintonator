@@ -10,7 +10,7 @@ A PHP cli script to skintone the fuck out of 16x16 PNGs.
 
 Turn any 16x16 png (_or any other png, until it crashes_) to a slack image made of `:skin-tone:`  emojis.
 
-![](https://raw.githubusercontent.com/tchapi/slack-skintonator/master/Pictures/explanation.png)
+![](https://raw.githubusercontent.com/tchapi/slack-skintonator/master/explanation.png)
 
 # Why ?
 
